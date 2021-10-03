@@ -1,3 +1,9 @@
+# Program specific
+
+
+server/controllers/
+server/routes/
+
 # Logs
 logs
 *.log
